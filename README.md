@@ -23,7 +23,7 @@ The database uses a highly structured relational layout engineered across **6 in
 
 ### Database Entity-Relationship Map
 
-The complete structural creation script can be found in **`01_schema.sql`** in this repository.
+The complete structural creation script can be found in **`bloodbankDB.sql`** in this repository.
 
 ---
 
