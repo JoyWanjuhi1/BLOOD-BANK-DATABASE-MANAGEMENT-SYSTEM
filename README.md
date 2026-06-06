@@ -1,10 +1,6 @@
 # BLOOD-BANK-DATABASE-MANAGEMENT-SYSTEM
 An enterprise-level relational database system designed in SSMS to track blood donor eligibility, manage critical patient urgencies, and handle real-time perishable inventory through automated triggers and multi-table analytics.
 
-Here is the final, production-ready **`README.md`** file for your **Blood Bank Management System**. It incorporates all 6 tables, the automation trigger, and the complete set of business computations with exact formatting so it displays beautifully on your GitHub profile.
-
----
-
 # Enterprise Blood Bank Information & Cross-Match Analytics System
 
 ## 📌 Project Overview
